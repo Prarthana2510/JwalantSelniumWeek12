@@ -1,0 +1,27 @@
+
+x
+java:S1192"\Define a constant instead of duplicating this literal "//button[@class='radius']/i" 3 times.(ë·œ8–—ì½Â1
+t
+java:S1192"XDefine a constant instead of duplicating this literal "//input[@id='password']" 3 times.(ÊáH8——ì½Â1
+u
+java:S1192"XDefine a constant instead of duplicating this literal "//input[@id='username']" 3 times.(„Ş¦¶8——ì½Â1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÒ¨ß8›—ì½Â1
+l
+java:S1854""JRemove this useless assignment to local variable "expectedSecureAreaText".(–›ÅÎıÿÿÿÿ8®—ì½Â1
+d
+java:S1854!"HRemove this useless assignment to local variable "actualSecureAreaText".(îËŸ^8®—ì½Â1
+r
+java:S1854@"PRemove this useless assignment to local variable "expectedpasswordErrorMessage".(ŞßŸ˜şÿÿÿÿ8®—ì½Â1
+U
+java:S1481!"9Remove this unused "actualSecureAreaText" local variable.(îËŸ^8®—ì½Â1
+]
+java:S1481"";Remove this unused "expectedSecureAreaText" local variable.(–›ÅÎıÿÿÿÿ8²—ì½Â1
+L	java:S106$"+Replace this use of System.out by a logger.(™œ„ùÿÿÿÿ8²—ì½Â1
+G	java:S1060"+Replace this use of System.out by a logger.(Ú€àÖ8²—ì½Â1
+G	java:S1064"+Replace this use of System.out by a logger.(ø‹Ïñ8²—ì½Â1
+F	java:S106?"+Replace this use of System.out by a logger.(§¨ëp8²—ì½Â1
+c
+java:S1481@"ARemove this unused "expectedpasswordErrorMessage" local variable.(ŞßŸ˜şÿÿÿÿ8²—ì½Â1
+L	java:S106C"+Replace this use of System.out by a logger.(¿Áä¾şÿÿÿÿ8²—ì½Â1
+H
+java:S59602"+Remove this assertion from production code.(˜»®É8Â—ì½Â1

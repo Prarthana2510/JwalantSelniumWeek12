@@ -1,0 +1,11 @@
+
+t
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8–ö¦‹Â1
+N
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8–ö¦‹Â1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¸–Ïþÿÿÿÿ8–ö¦‹Â1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Î°¸ó8¦ö¦‹Â1
+F	java:S106"+Replace this use of System.out by a logger.(Ü¢ÁC8ØŒ«‹Â1
+G
+java:S5960"+Remove this assertion from production code.(ª À/8¼è¨‹Â1
